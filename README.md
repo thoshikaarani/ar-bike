@@ -17,7 +17,7 @@ This is an Augmented Reality (AR) mobile application developed using **Unity**.
 ## 🛠️ Built With
 
 - Unity
-- AR Foundation / Vuforia (specify which one you used)
+- Vuforia 
 - Android Build Support
 
 ## 📸 Screenshots 
